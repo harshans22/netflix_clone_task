@@ -1,16 +1,12 @@
-# netflix_clone_task
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Video Demo
 
-A few resources to get you started if this is your first Flutter project:
+Here’s a demo of the app in action:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<video width="600" controls>
+  <source src="https://private-user-images.githubusercontent.com/127718826/386932910-0d50f5c3-962c-4d35-afe6-92c981b85598.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4MzIzNjksIm5iZiI6MTczMTgzMjA2OSwicGF0aCI6Ii8xMjc3MTg4MjYvMzg2OTMyOTEwLTBkNTBmNWMzLTk2MmMtNGQzNS1hZmU2LTkyYzk4MWI4NTU5OC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExN1QwODI3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NTYyNzZhNTI0NDNlNDZmMDM2ODQwNzQxYjg4YTI2Y2FiNGUxMzBhYTFhZmEwNzliODBjMTY0NDVhNmIzZjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.W8XdsZVkgho6IyTb_mt3R31vGPRR4B2xNHhViXCww4E">
+  Your browser does not support the video tag.
+</video>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
