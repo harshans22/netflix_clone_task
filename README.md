@@ -4,9 +4,5 @@
 ## Video Demo
 
 Here’s a demo of the app in action:
-
-<video width="600" controls>
-  <source src="https://private-user-images.githubusercontent.com/127718826/386932910-0d50f5c3-962c-4d35-afe6-92c981b85598.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE4MzIzNjksIm5iZiI6MTczMTgzMjA2OSwicGF0aCI6Ii8xMjc3MTg4MjYvMzg2OTMyOTEwLTBkNTBmNWMzLTk2MmMtNGQzNS1hZmU2LTkyYzk4MWI4NTU5OC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExN1QwODI3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NTYyNzZhNTI0NDNlNDZmMDM2ODQwNzQxYjg4YTI2Y2FiNGUxMzBhYTFhZmEwNzliODBjMTY0NDVhNmIzZjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.W8XdsZVkgho6IyTb_mt3R31vGPRR4B2xNHhViXCww4E">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/8a8e00fd-ff8b-45fe-89cd-19581137004c
 
